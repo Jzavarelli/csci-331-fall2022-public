@@ -1,0 +1,19 @@
+body
+{
+    display: block;
+}
+
+.headerElem 
+{
+    background-color: cyan;
+}
+
+.bodyElem
+{
+    background-color: orangered;
+}
+
+.footerElem
+{
+    background-color: cyan;
+}
