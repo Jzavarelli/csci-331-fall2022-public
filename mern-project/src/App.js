@@ -15,7 +15,11 @@ function App() {
 
       <hr />
       <br />
-      <Counter />
+      <Counter incBy={1} />
+      <br />
+      <hr />
+      <br />
+      <Counter incBy={2} />
       <br />
       <hr />
       <br />
